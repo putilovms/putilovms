@@ -1,10 +1,7 @@
-Hi 👋 My name is Mikhail Putilov
-================================
-
-Python developer
+My name is Mikhail Putilov
 ----------------
 
-I am an actively developing Backend developer. I love programming and challenging tasks.
+I am an actively developing Python Backend developer. I love programming and challenging tasks.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [putilovms@yandex.ru](mailto:putilovms@yandex.ru)
