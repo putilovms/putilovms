@@ -1,4 +1,4 @@
-My name is Mikhail Putilov
+Hi, my name is Mikhail Putilov
 ----------------
 
 I am an actively developing Python Backend developer. I love programming and challenging tasks.
