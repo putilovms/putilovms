@@ -49,4 +49,10 @@ I am an actively developing Python Backend developer. I love programming and cha
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
             width="36" height="36" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+            height="36" alt="fastapi logo"  /></a>
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
+            height="36" alt="sqlalchemy logo"  /></a>
 </p>
